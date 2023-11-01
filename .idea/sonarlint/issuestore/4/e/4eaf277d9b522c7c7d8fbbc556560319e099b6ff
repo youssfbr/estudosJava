@@ -1,0 +1,27 @@
+
+f
+java:S1192"KDefine a constant instead of duplicating this literal "dd/MM/yyyy" 3 times.(ÏÙ×íùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Äïâ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¨§»
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ˆç›şÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ñ•øÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+?	java:S106*"+Replace this use of System.out by a logger.( ‘Û
+E	java:S106+"+Replace this use of System.out by a logger.(ÎÙş»ıÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(¬ñúıÿÿÿÿ
+E	java:S106."+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106/"+Replace this use of System.out by a logger.(·ù¹Çùÿÿÿÿ
+@	java:S1060"+Replace this use of System.out by a logger.(”Ïÿ¯
+E	java:S1061"+Replace this use of System.out by a logger.(£Æóªıÿÿÿÿ
+@	java:S1062"+Replace this use of System.out by a logger.(±Å¤Ê
+E	java:S1064"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+?	java:S1065"+Replace this use of System.out by a logger.(Ø­äw
+@	java:S1066"+Replace this use of System.out by a logger.(‘µÜ
+E	java:S1068"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S1069"+Replace this use of System.out by a logger.(Ñ×¶ûÿÿÿÿ
+@	java:S106:"+Replace this use of System.out by a logger.(‹¼Ñ†
+E	java:S106;"+Replace this use of System.out by a logger.(Ô¨ÎÍÿÿÿÿÿ
+@	java:S106<"+Replace this use of System.out by a logger.(•šÙ§
+E	java:S106>"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E	java:S106?"+Replace this use of System.out by a logger.(¨Ğôçùÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(¤Õà™

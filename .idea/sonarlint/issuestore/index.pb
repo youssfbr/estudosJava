@@ -1,0 +1,21 @@
+
+b
+2src/estudos/logica/vetor/Exercicio11MaisVelho.java,6\6\6648f2963964c0ef6a10f3001d797cd24e0ee26d
+o
+?src/estudos/logica/estrutura_sequencial/Exercicio06Terreno.java,f\8\f8b6535e2ab4e3fe0e0a3a5848bd250893a240c9
+q
+Asrc/estudos/logica/estrutura_sequencial/Exercicio07Retangulo.java,c\5\c5b32b22ad1fb86204bc85f1620647e9f1d832c5
+[
++src/estudos/datas/ConvertGlobalToLocal.java,b\c\bc57fcabc8b2f9566735457a91073de4cb61fe85
+O
+src/estudos/datas/Calculos.java,8\d\8db7d6bcc09711a40fa3c0b2f353e1a54f34f34a
+U
+%src/estudos/poo/EstudoEnumeracao.java,d\e\de77e72875c3104be2622a6c0cdb80fb1131e3ba
+d
+4src/estudos/logica/vetor/Exercicio08SomaVetores.java,e\4\e43de85b126ad64844cd88b5371f61414b2e74da
+X
+(src/estudos/datas/StringToDateJava8.java,4\e\4eaf277d9b522c7c7d8fbbc556560319e099b6ff
+X
+(src/estudos/datas/DateToStringJava8.java,d\0\d08a8b12eef3a0556cb9a2089a5a5cb051ed8ce6
+U
+%src/estudos/poo/EstudoComposicao.java,4\2\4280045f20c644d5585f00abfc71575305e7cc0d

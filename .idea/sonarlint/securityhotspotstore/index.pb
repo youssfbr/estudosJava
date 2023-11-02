@@ -29,3 +29,5 @@ w
 G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b\4\b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+]
+-src/estudos/poo/ExercicioPostComentarios.java,e\5\e5808352d7b380948508bf6e6ea6f04b85650f3f
